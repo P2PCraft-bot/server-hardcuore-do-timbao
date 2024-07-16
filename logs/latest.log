@@ -13,3 +13,18 @@
 [19:36:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
 [19:36:43] [Server thread/INFO]: Preparing level "world"
 [19:36:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:36:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:36:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:36:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:36:49] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[19:36:49] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[19:36:49] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:36:49] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[19:36:49] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[19:36:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:36:50] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[19:36:51] [Worker-Main-1/INFO]: Preparing spawn area: 55%
+[19:36:51] [Server thread/INFO]: Time elapsed: 5373 ms
+[19:36:51] [Server thread/INFO]: Done (7.696s)! For help, type "help"
+[19:36:51] [Server thread/INFO]: Jorge[/[0:0:0:0:0:0:0:1%0]:45730] logged in with entity id 113 at (-24.008543086775013, 76.36469716009881, -26.84290905850007)
+[19:36:51] [Server thread/INFO]: Jorge joined the game
