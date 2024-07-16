@@ -20,3 +20,7 @@
 [16:35:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
 [16:35:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
 [16:35:43] [Worker-Main-5/INFO]: Preparing spawn area: 70%
+[16:35:43] [Server thread/INFO]: Time elapsed: 3197 ms
+[16:35:43] [Server thread/INFO]: Done (4.882s)! For help, type "help"
+[16:35:49] [Server thread/INFO]: Jorge[/[0:0:0:0:0:0:0:1%0]:44576] logged in with entity id 111 at (-135.32529189457563, 100.69214916493505, -76.24489846512047)
+[16:35:49] [Server thread/INFO]: Jorge joined the game
