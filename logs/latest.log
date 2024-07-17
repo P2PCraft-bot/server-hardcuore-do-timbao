@@ -12,3 +12,20 @@
 [21:35:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
 [21:35:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
 [21:35:37] [Server thread/INFO]: Preparing level "world"
+[21:35:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:35:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:35:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:35:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:35:43] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:35:43] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:35:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:35:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:35:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:35:43] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:35:43] [Worker-Main-5/INFO]: Preparing spawn area: 9%
+[21:35:44] [Server thread/INFO]: Time elapsed: 4988 ms
+[21:35:44] [Server thread/INFO]: Done (7.003s)! For help, type "help"
+[21:35:44] [Server thread/INFO]: jorge[/[0:0:0:0:0:0:0:1%0]:56148] logged in with entity id 86 at (3.5, 71.0, 7.5)
+[21:35:44] [Server thread/INFO]: jorge joined the game
+[21:35:48] [Server thread/INFO]: jorge lost connection: Disconnected
+[21:35:48] [Server thread/INFO]: jorge left the game
