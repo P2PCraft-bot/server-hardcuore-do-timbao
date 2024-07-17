@@ -13,3 +13,20 @@
 [21:40:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
 [21:40:20] [Server thread/INFO]: Preparing level "world"
 [21:40:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:40:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:40:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:40:25] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:40:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:40:25] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:40:25] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:40:25] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:40:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:40:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:40:27] [Worker-Main-5/INFO]: Preparing spawn area: 32%
+[21:40:27] [Worker-Main-3/INFO]: Preparing spawn area: 97%
+[21:40:27] [Server thread/INFO]: Time elapsed: 5019 ms
+[21:40:27] [Server thread/INFO]: Done (6.768s)! For help, type "help"
+[21:40:30] [Server thread/INFO]: jorge[/[0:0:0:0:0:0:0:1%0]:43726] logged in with entity id 119 at (3.5, 71.0, 7.5)
+[21:40:30] [Server thread/INFO]: jorge joined the game
+[21:40:34] [Server thread/INFO]: jorge lost connection: Disconnected
+[21:40:34] [Server thread/INFO]: jorge left the game
